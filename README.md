@@ -1,6 +1,6 @@
 ### Updated **README.md** with Code Creation Steps
 
-# RCP (Remote Call Protocol) Implementation
+# Remote Procedure Call (RPC) Implementation
 
 This project demonstrates a simple client-server application implementing **Remote Call Protocol (RCP)** using Node.js (server) and React (client).
 
@@ -95,4 +95,5 @@ cd ../rcp-client
 npm install
 npm start
 ```
+
 ```
